@@ -981,7 +981,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 18),
                   const Text(
-                    'KosFinance',
+                    'KosFinance', // untuk nama judul pada halaman utama
                     style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold, color: primaryGreen),
                   ),
                   const SizedBox(height: 6),
