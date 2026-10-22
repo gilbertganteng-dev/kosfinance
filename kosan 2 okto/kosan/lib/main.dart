@@ -1137,7 +1137,7 @@ class _RegisterPageState extends State<RegisterPage> {
       email: emailC.text.trim(),
     ));
     // Admin diberi tahu ada akun baru
-    addAdminNotification(
+    addAdminNotification( // ada notifikasi baru akun penghuni dibuat
       type: 'account',
       title: 'Pendaftaran akun baru',
       message: '$name baru saja membuat akun penghuni.',
