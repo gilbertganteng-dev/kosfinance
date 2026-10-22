@@ -977,7 +977,7 @@ class _LoginPageState extends State<LoginPage> {
                       color: lightGreen,
                       borderRadius: BorderRadius.circular(22),
                     ),
-                    child: const Icon(Icons.account_balance_wallet, size: 45, color: primaryGreen),
+                    child: const Icon(Icons.account_balance_wallet, size: 45, color: primaryGreen), // logo utama kosfinance
                   ),
                   const SizedBox(height: 18),
                   const Text(
